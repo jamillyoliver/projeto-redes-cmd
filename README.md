@@ -17,4 +17,5 @@ Este projeto consiste em um script de automação desenvolvido em **Batch CLI** 
 3. Escolha a opção desejada no menu interativo.
 
 ## 📸 Demonstração
-[Insira aqui um print da tela do script rodando no seu CMD]
+<img width="931" height="470" alt="Captura de tela 2026-07-18 114344" src="https://github.com/user-attachments/assets/64d11b6e-8141-4b0a-a43a-fb43d1c00a28" />
+<img width="927" height="483" alt="Captura de tela 2026-07-18 114227" src="https://github.com/user-attachments/assets/c1d143cb-abb5-48eb-af6d-0495197d5c5d" />
